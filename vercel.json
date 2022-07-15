@@ -1,0 +1,7 @@
+{
+    "name": "vkj",
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://bfq.zixiwo.cn/$1"}
+    ]
+  }
