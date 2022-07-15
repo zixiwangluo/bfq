@@ -2,6 +2,6 @@
     "name": "vkj",
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://bfq.zixiwo.cn/$1"}
+      {"src": "/(.*)","dest": "http://bfq.zixiwo.cn/$1"}
     ]
   }
